@@ -1,9 +1,5 @@
 
 # section A
-from distutils.log import info
-from os import times
-from numpy import outer
-
 #CCAA, A_3B
 def ccaa(str):
 
