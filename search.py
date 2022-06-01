@@ -52,7 +52,9 @@ f.write("\r\n\n")
 c = 0
 for indv in individuals:
     c+=1
-    f.write("INDIVIDUAL: %s\r" % str(c))
+    f.write("INDIVIDUAL: %s\r\n\n" % str(c))
+    f.write("ISOLATED RECORD: \r\n\n")
+    f.write("%s\r\n\n" % indv)
     f.write("SOCIODEMOGRAPHIC CHARACTERISTICS\r")
     f.write("Region (CCAA):                    %s\r" % ii.ccaa(indv[:2]))
     f.write("Sex:                              %s\r" % ii.sex(indv[2]))

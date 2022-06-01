@@ -1,6 +1,13 @@
 Total of individuals who took the survey: 10838Total of individuals with the same profile: 1
 
-INDIVIDUAL: 1SOCIODEMOGRAPHIC CHARACTERISTICSRegion (CCAA):                    CataluñaSex:                              FemaleBirth Month:                      JulyBirth Year:                       1960Age:                              043Born in Spain:                    YesCCAA of Birth:                    CataluñaBorn outside Spain:               NoStudy Level:                      University StudiesFather Study Level:               Primary Studies Complete or IncompleteMother Study Level:               Primary Studies Complete or IncompleteEconomic Status Activity:         Working
+INDIVIDUAL: 1
+
+ISOLATED RECORD: 
+
+096071960043109  7220110000000000 03221101000002511100650107081                                                                                                             6 1619111100010021210166 1026                                    0000000000010   63     3213211110000000136144414244434443226 02879226079222
+
+
+SOCIODEMOGRAPHIC CHARACTERISTICSRegion (CCAA):                    CataluñaSex:                              FemaleBirth Month:                      JulyBirth Year:                       1960Age:                              043Born in Spain:                    YesCCAA of Birth:                    CataluñaBorn outside Spain:               NoStudy Level:                      University StudiesFather Study Level:               Primary Studies Complete or IncompleteMother Study Level:               Primary Studies Complete or IncompleteEconomic Status Activity:         Working
 
 Economic activity (last week)------------------------------------ Working:                                                     YesEmployed but temporarily absent:                             NoUnemployed but worked before:                                NoUnemployed and in search for work:                           NoUnable to work:                                              NoPensioner:                                                   NoTaking a Course:                                             NoDedicated mainly to housework:                               NoDedicated to volunteering:                                   NoAnother situation without exercising any economic activity:  NoNo Data:                                                     No----------------------------------------------------------------- 
 
